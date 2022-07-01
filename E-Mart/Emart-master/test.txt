@@ -1,0 +1,3 @@
+This is to commit to github and see if all is working well. 
+Need to see how working from a locally created branch affects the files. 
+Alway try to do some hands-on
